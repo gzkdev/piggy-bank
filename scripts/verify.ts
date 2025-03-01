@@ -1,7 +1,7 @@
 import hre from "hardhat";
 
 const main = async () => {
-  const contractAddress = "0xc22D54E19a6d1AF0Ca99BF2c1Db560EC09E2B273";
+  const contractAddress = "0x73822DFf5aC813a90ca06f518343840Bd3Ee14A7";
 
   const allowedTokens = [
     "0x944B5C530f7112D8533BB87E3dCAb99D881B3C73",

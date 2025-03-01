@@ -1,13 +1,3 @@
-# Sample Hardhat Project
+# PiggyBank
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+A decentralized savings platform where users can create and manage their own on-chain piggy banks, lock funds for a specific duration, and withdraw with penalties for early withdrawal. Built with Solidity, Hardhat, and deployed on [Base Sepolia Testnet](https://base-sepolia.blockscout.com/address/0xc22D54E19a6d1AF0Ca99BF2c1Db560EC09E2B273)
